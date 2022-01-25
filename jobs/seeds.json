@@ -1,0 +1,143 @@
+[
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Full-Stack Software Engineer",
+    "company_name": "Pigment",
+    "job_description":"A first experience as a software engineer working on a product in production. Proven experience designing   object oriented software with languages such as C#, Java, C++, Golang, Rust, Python or Ruby (this list is not exhaustive). Proven experience with JavaScript, CSS and JavaScript libraries or frameworks such as React, Vue.js or Angular. Understand the product and the customer's needs in detail and can suggest innovative ideas: in the end, it's all about delivering value to end users. ",
+    "salary":"40000",
+    "created_at": "2022-01-24"
+}
+},
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Full-Stack Software Engineer",
+    "company_name": "Pigment",
+    "job_description":"A first experience as a software engineer working on a product in production. Proven experience designing object oriented software with languages such as C#, Java, C++, Golang, Rust, Python or Ruby (this list is not exhaustive). Proven experience with JavaScript, CSS and JavaScript libraries or frameworks such as React, Vue.js or Angular. Understand the product and the customer's needs in detail and can suggest innovative ideas: in the end, it's all about delivering value to end users. ",
+    "salary":"40000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model": "jobs.jobs",
+  "fields":{
+    "title": "Software Engineer",
+    "company_name": "nPlan",
+    "job_description":"Strong algorithmic & technical design skills. Mastery of Python (preferred) or Javascript, or experience with a wide range of other languages. Degree in Computer Science, Engineering, Physics or Maths, or equivalent experience. Familiar working with version control and collaboration tools (ideally Git & JIRA). Experience with API and/or microservice development",
+    "salary":"80000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Senior Front End Engineer",
+    "company_name": "checkout.com",
+    "job_description":"The ideal candidate is passionate about the JavaScript and React ecosystem, spirited, believes in small, Agile iteration, and enjoys creating clean, robustly tested code. 2-3 years front-end development experience in React or similar frameworks. Small experiences or knowledge in mobile development",
+    "salary":"90000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model": "jobs.jobs",
+  "fields": { 
+    "title": "Full-Stack Developer",
+    "company_name": "Bonnet",
+    "job_description":"2+ years professional experience as a full stack software engineer. Creative individual who can come up with ideas; borrow from other industries. Independent worker, taking ownership of own work stream and projects ",
+    "salary":"60000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Software Engineer",
+    "company_name": "Truelayer",
+    "job_description":"Experience working in any common backend language/framework such as .NET, Java, Rust and Go. Understanding of common design patterns and principles, and how/when to apply them. Familiarity with API design and experience with at least one web framework.",
+    "salary":"75000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Software Development Engineer",
+    "company_name": "10x",
+    "job_description":"A deep understanding of good practices in software development. Experience with event streaming technologies. Worked in highly distributed, low latency and high availability systems and consider constraints and trade-offs when making architectural decisions. A passion for quality and experience in Test Driven Development and Behaviour Driven Development",
+    "salary":"100000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Software Engineer",
+    "company_name": "Data Camp",
+    "job_description":"a product-minded engineer who is passionate about maximizing the impact of their work. Has 2+ years of web development experience in Ruby on Rails and JavaScript/TypeScript, across front-end and back-end. Is result-oriented, using data to tell which initiatives are driving growth.",
+    "salary": "60000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Junior Back End Engineer",
+    "company_name": "Behaviour Lab",
+    "job_description": "1-3 years of hands-on experience as a full stack developer writing effective and scalable code, ideally for cloud-based SaaS products. Bachelor’s degree in computer science, computer engineering, physics or related field. Great knowledge of Python and related frameworks such as Django and Celery. Good working knowledge of relational databases and leveraging PostgreSQL.",
+    "salary":"40000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Back End Engineer",
+    "company_name": "Learnerbly",
+    "job_description": "You can take on big problems, break them down and collaborate with other members of a cross functional team to solve them. You have excellent communication and interpersonal skills to collaborate with the wider team. You can work with a high degree of autonomy. You are flexible and able to adapt to changes of a growing team.",
+    "salary":"70000",
+    "created_at": "2022-01-24"
+  }
+}, 
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Back End Developer",
+    "company_name": "Immersive labs",
+    "job_description":"Demonstrable and up-to-date knowledge with Ruby, Ruby on Rails, APIs (GraphQL or REST), and object-oriented design. Ability to integrate multiple data sources and databases into one system and create database schemas that represent and support business processes. Understanding of fundamental design principles behind scalable applications.",
+    "salary":"50000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Developer",
+    "company_name": "Glean",
+    "job_description": "Preferably educated to degree level or equivalent in a STEM subject. Strong programming skills (object oriented and/ or functional). Front end technologies HTML5, CSS and JavaScript frameworks (we mainly use TypeScript and React). Mobile technologies (Android and/ or iOS).",
+    "salary":"40000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model":"jobs.jobs",
+  "fields": {
+    "title": "Software Engineer",
+    "company_name": "Financial Times",
+    "job_description":"Good programming skills, preferably in Node.js and the web platform (HTML, CSS, JavaScript). A keen focus on customer needs and collaborative attitude. (Desirable) Modelling data (e.g. database schemas or knowledge graphs).",
+    "salary":"70000",
+    "created_at": "2022-01-24"
+  }
+},
+{
+  "model": "jobs.jobs",
+  "fields": {
+    "title": "Graduate Software Engineer",
+    "company_name": "WeGift",
+    "job_description":"Please note, you DO NOT need to be a university graduate to apply for this position, and we will consider applicants from Software Engineers that can demonstrate other levels training and equivalent commercial experience. Enthusiasm to learn and apply the skills you have gained throughout your education or internship to support on architecture and development of scalable systems and API heavy software solutions. Experience with server side technologies like Python, Java, C#, Ruby, GoLang, JavaScript or any other backend language.",
+    "salary":"35000",
+    "created_at": "2022-01-24"
+  }
+}
+]
+

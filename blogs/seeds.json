@@ -1,0 +1,18 @@
+[
+  {
+    "model": "blogs.blogs",
+    "fields": {
+      "title": "Coding interview tips from ex-interviewers",
+      "content": "This might sound obvious, but coding interviews are challenging, so you should start preparing early. Some of the people we work with start studying up to 6 months before their interview. Starting that much in advance may not be necessary for everyone, but the earlier you start, the higher your chances of getting an offer. Research the company you’ve applied to. The types of coding questions that show up in different interview rounds will vary according to which company you’re interviewing with. Of course, to succeed in a coding interview, you’re going to have to know how to work with computer science fundamentals like data structures and algorithms. Spend extra time studying those that you’re less accustomed to using in your daily work, as the questions that come up in the interview won’t necessarily correspond to what you’ve put on your resume. Working with a defined framework will help you approach coding questions systematically, rather than getting caught on the wrong details and losing out on important time. You need a method that will consistently show your interviewer that you have the right technical knowledge and can break the problem down into manageable pieces.",
+      "image": "https://i.imgur.com/qIYgavk.jpg"
+    }
+  },
+  {
+    "model": "blogs.blogs",
+    "fields": {
+      "title": "How to answer coding interview questions ",
+      "content": "To learn how to answer coding interview questions, you must first be able to approach them systematically. You might solve a coding question in different ways, but at the end of the day, you need an approach that will consistently. If the question has been written down for you, take the time to read it thoroughly at least twice, to be sure that you’ve picked up on all the details. Repeat the question back to the interviewer in your own words, so that they can flag anything that you may have initially misunderstood.",
+      "image": "https://i.imgur.com/gbtQgqK.jpg"
+    }
+  }
+]
