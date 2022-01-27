@@ -2,20 +2,24 @@ from rest_framework.generics import(
     ListCreateAPIView,
     RetrieveUpdateDestroyAPIView
 )
+from rest_framework.permissions import IsAuthenticated
 
 from .models import Jobs
 from .serializers import JobSerializer
+
 
 
 class JobsListView(ListCreateAPIView):
 
     queryset = Jobs.objects.all()
     serializer_class = JobSerializer
+    # permission_classes = (IsAuthenticated)
 
 class JobsDetailView(RetrieveUpdateDestroyAPIView):
 
     queryset = Jobs.objects.all()
     serializer_class = JobSerializer
+    # permission_classes = (IsAuthenticated)
 
 
 

@@ -21,5 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/jobs/', include('jobs.urls')),
     path('api/blogs/', include('blogs.urls')),
-    # path('', include('jwt_auth.urls'))
+    path('api/', include('jwt_auth.urls'))
 ]
